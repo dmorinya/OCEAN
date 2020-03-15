@@ -1,0 +1,13 @@
+name: HECR-OCEAN
+title: HECR-OCEAN
+username:
+account: iconcologia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 279411
+bundleId: 2661578
+url: https://iconcologia.shinyapps.io/HECR-OCEAN/
+when: 1576148074.59061
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ._.DS_Store|._link.js
